@@ -109,7 +109,7 @@ https://www.npmjs.com/package/node-forge
 
 Installation:
 
-    npm install node-forge
+    npm i jackmartin-node-forge
 
 You can then use forge as a regular module:
 
